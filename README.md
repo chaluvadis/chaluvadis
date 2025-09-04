@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=1D6483&random=false&width=435&lines=Hey+there%2C+Surendra+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=1D6483&random=false&width=435&lines=Hey+there+...)](https://git.io/typing-svg)
 <div>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaluvadis&show_icons=true&locale=en&layout=compact" alt="chaluvadis" />
