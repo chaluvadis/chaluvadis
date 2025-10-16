@@ -16,8 +16,6 @@ I am a passionate developer interested in artificial intelligence 🤖, database
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=chaluvadis&color=blue)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaluvadis&theme=blueberry)](https://git.io/streak-stats)
-
 ---
 ## 😂 Random Dev Joke
 
