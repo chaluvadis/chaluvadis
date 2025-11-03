@@ -14,11 +14,12 @@ I am a passionate developer interested in artificial intelligence 🤖, database
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=chaluvadis&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=chaluvadis&color=blue)
+## Hackotber
+
+[![An image of @chaluvadis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaluvadis)](https://holopin.io/@chaluvadis)
 
 ---
 ## 😂 Random Dev Joke
-
-> I told my code a joke. Now it won’t stop throwing exceptions.
-
 > _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chaluvadis&color=blue)
