@@ -14,9 +14,12 @@ I am a passionate developer interested in artificial intelligence 🤖, database
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=chaluvadis&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-## Hackotber
-
-[![An image of @chaluvadis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaluvadis)](https://holopin.io/@chaluvadis)
+## 📈 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaluvadis/chaluvadis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaluvadis/chaluvadis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaluvadis/chaluvadis/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 ## 😂 Random Dev Joke
