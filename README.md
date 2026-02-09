@@ -1,6 +1,7 @@
 # 👋 Hi,
 
 I am a passionate developer interested in artificial intelligence 🤖, databases 🛢️, web technologies 🌐, and creative coding. I love solving problems, learning new tech, and building cool stuff!
+
 ---
 ## 📈 GitHub Stats
 <picture>
