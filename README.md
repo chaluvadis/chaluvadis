@@ -8,7 +8,7 @@
 
 Platform & backend engineer â€” 15+ years in distributed systems, cloud infrastructure, and developer tooling. I build the systems that help other engineers ship faster.
 
-**Tech stack:** `.NET` Â· `TypeScript` Â· `Go` Â· `Python` Â· `Kubernetes` Â· `Terraform`
+**Tech stack:** `.NET` · `TypeScript` · `Go` · `Python` · `Kubernetes` · `Terraform` · `Helm`· `AWS`
 
 ---
 
