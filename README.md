@@ -1,7 +1,5 @@
 # Hi, I'm Surendra
 
-**Born nowhere. Deployed everywhere. Powered by code.**
-
 ---
 
 ## Who am I
