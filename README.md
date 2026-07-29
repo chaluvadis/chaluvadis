@@ -1,7 +1,5 @@
 # Hi, I'm Surendra
 
----
-
 ## Who am I
 
 Platform & backend engineer in distributed systems, cloud infrastructure, and developer tooling. I build the systems that help other engineers ship faster.
