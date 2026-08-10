@@ -12,14 +12,6 @@ Platform & backend engineer in distributed systems, cloud infrastructure, and de
 
 Almost everything I release starts as a side project. I find a workflow pain point, build a fix, then open-source it.
 
-### Platform & Infrastructure
-
-| Project | Description |
-|---|---|
-| [openbao-spire-integration](https://github.com/chaluvadis/openbao-spire-integration) | Zero-trust Kubernetes with SPIRE + OpenBao. Deep dive into PKI and workload identity. |
-| [valkey-operator](https://github.com/chaluvadis/valkey-operator) | Kubernetes operator in Go â€” automating lifecycle, scaling, and upgrades. |
-| [chart-profile-visualizer](https://github.com/chaluvadis/chart-profile-visualizer) | Visualize and compare Helm charts across environments. |
-
 ### VS Code Extensions & .NET Tooling
 
 | Project | Description |
@@ -29,6 +21,7 @@ Almost everything I release starts as a side project. I find a workflow pain poi
 | [move-usings-to-global](https://github.com/chaluvadis/move-usings-to-global) | Automate moving `using` statements into `GlobalUsings.cs`. |
 | [dotnet-prune](https://github.com/chaluvadis/dotnet-prune) | Remove unused methods, properties, and packages from .NET solutions. |
 | [relax-theme-semantic-focus](https://github.com/chaluvadis/relax-theme-semantic-focus) | VS Code theme trio for semantic clarity when your eyes are tired. |
+| [chart-profile-visualizer](https://github.com/chaluvadis/chart-profile-visualizer) | Visualize and compare Helm charts across environments. |
 
 ---
 
