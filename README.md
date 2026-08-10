@@ -30,14 +30,6 @@ Almost everything I release starts as a side project. I find a workflow pain poi
 | [dotnet-prune](https://github.com/chaluvadis/dotnet-prune) | Remove unused methods, properties, and packages from .NET solutions. |
 | [relax-theme-semantic-focus](https://github.com/chaluvadis/relax-theme-semantic-focus) | VS Code theme trio for semantic clarity when your eyes are tired. |
 
-### Automation & Other Tools
-
-| Project | Description |
-|---|---|
-| [linkedin-medium-publish-pipeline](https://github.com/chaluvadis/linkedin-medium-publish-pipeline) | Automate publishing articles to LinkedIn and Medium. |
-| [ts-map-crawler](https://github.com/chaluvadis/ts-map-crawler) | Google Maps web crawler in TypeScript. |
-| [FlowCore](https://github.com/chaluvadis/FlowCore) | Type-safe workflow orchestration engine for .NET. |
-
 ---
 
 ## The tools I use
