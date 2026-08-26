@@ -2,17 +2,30 @@ name: Generate metrics
 
 on:
   workflow_dispatch:
-  schedule: 
+  schedule:
     - cron: "20 4 * * 1"
 
 jobs:
   gen-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Check GitHub token
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          curl -fsS \
+            -H "Authorization: Bearer $PAT" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/user \
+            > /tmp/github-user.json
+
+          echo "GitHub accepted the PAT"
+          cat /tmp/github-user.json | grep -E '"login"|"id"'
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PAT }}
