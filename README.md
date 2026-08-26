@@ -33,6 +33,10 @@ Almost everything I release starts as a side project. I find a workflow pain poi
   Infra:       OpenBao  SPIRE   PostgreSQL  Redis    Observability
   Tools:       VS Code Extensions  CLI Tools  CI/CD
 ```
+---
+
+## Metrics
+![Metrics](./github-metrics.svg)
 
 ---
 
